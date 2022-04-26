@@ -1,4 +1,4 @@
-package com.javaex.object;
+package com.javastudy.object;
 
 public class Constructor {
 	
